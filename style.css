@@ -1,0 +1,106 @@
+body {
+/* box-sizing: border-box; */
+background-image: url("paper-background.jpg");
+/* background-size: 100vw 100vh; */
+}
+
+#topContainer {
+  /* box-sizing: border-box; */
+  height: 10vh;
+  width: 90vw;
+  background-color: rgba(0, 0, 255, 0.5);
+  padding: 5px;
+  padding-left: 25px;
+  /* border-radius: 25px; */
+}
+
+#spotifyFollow {
+  /* box-sizing: border-box; */
+  display: inline;
+  position: relative;
+  margin-left: 80.19vw;
+}
+
+ #subContainer {
+  box-sizing: border-box;
+  height: 6vh;
+  width: 10vw;
+  display: block;
+  background-size: 20vw;
+  background-color: rgba(0,0,255,0.5);
+  border-radius: 25px;
+}
+
+#cells {
+  box-sizing: border-box;
+  display: inline-block;
+  width: 95vw;
+  height: 70vh;
+  background-color: rgba(255,0,0,0.9);
+  /* border-radius: 25px; */
+}
+
+#cell1 {
+  box-sizing: border-box;
+  position: absolute;
+  display: inline-block;
+  height: 78vh;
+  width: 20vw;
+  background-color: rgba(255, 200, 0, 0.9);
+  border-radius: 3px;
+  margin-top: 10px;
+  margin-left: 1vw;
+  padding: 10px;
+  padding-top: 17px
+  /* border-radius: 25px; */
+}
+
+#cell2 {
+  box-sizing: border-box;
+  position: relative;
+  display: inline-block;
+  /* height: 83vh; */
+  /* background-size: 20vw 83vh; */
+  width: 20vw;
+  margin-left: 25vw;
+  /* margin-right: auto; */
+}
+
+#cell3 {
+  box-sizing: border-box;
+  display: inline;
+  left: 6vw;
+  position: absolute;
+  height: 12vh;
+  width: 20vw;
+  margin-left: 55vw;
+  margin-top: 30px;
+  padding: 8px;
+  /* margin-top: 10vh; */
+  /* background-color: rgba(30, 215, 96, 1); */
+  border-radius: 3px;
+}
+
+#appleMusicEP {
+  box-sizing: border-box;
+  display: inline-block;
+  left: 66%;
+}
+
+#spotifyEP {
+  box-sizing: border-box;
+  display: inline;
+  /* margin-left: 400px; */
+}
+
+#footer {
+  /* background-color: rgba(255, 100, 200, 1);
+  display: inline-block;
+  position: relative;
+  width: 95vw;
+  height: 30vh;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 3px; */
+}
